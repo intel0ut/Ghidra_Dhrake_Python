@@ -1,4 +1,4 @@
-from ghidra.program.model.data import StructureDataType, IntegerDataType, PointerDataType, CategoryPath, DataType, DataTypeConflictHandler, FunctionDefinitionDataType
+from ghidra.program.model.data import StructureDataType, CategoryPath, DataType, DataTypeConflictHandler, FunctionDefinitionDataType, Pointer32DataType
 from ghidra.program.model.symbol import SourceType
 
 def putType(dt, h):
