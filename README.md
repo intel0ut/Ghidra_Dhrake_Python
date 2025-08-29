@@ -17,6 +17,9 @@ Once the GhidraInit code finish running, you can use Script Manager to run this 
 
 Once the script finish, you should have all the new classes and methods listed in the Symbol tree view in Ghidra.
 
+# Notes:
+- For now, only the script to pase classes is ported to Python. I plan on porting the DhrakeInit script too once i have some free time.
+
 ***This script is provided as-is. Please make sure to backup your Ghidra project before running the script.***
 
 [Ghidra]: https://github.com/NationalSecurityAgency/ghidra
