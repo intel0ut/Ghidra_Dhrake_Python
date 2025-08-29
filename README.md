@@ -1,4 +1,4 @@
-# Ghidra_Dhrake_Python
+# Ghidra Dhrake Python
 A Ghidrathon/Python port of Ghidra Dhrake (https://github.com/huettenhain/dhrake) for reverse engineering Delphi binaries.
 
 # Requirements
